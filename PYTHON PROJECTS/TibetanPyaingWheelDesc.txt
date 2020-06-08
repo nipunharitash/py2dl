@@ -1,0 +1,12 @@
+﻿This simple python program is best suited for beginner Learners who wish to test cool python libraries.
+
+1. TQDM – Used to implement progress bar.
+2. Text to Art – Used to display Fancy Text.
+
+Skill : Beginner’s : Writing Output to File.
+
+	This program takes a mantra of your choice and 
+    recites ** (saves as a text file) 1008 Times for each rotation of the wheel. You will specify 
+    the number of times you want to turn the wheel. The text file with recited mantra in multiples 
+    of 1008 is saved in the current directory as MantraChant.txt. Avoid specifying excessively big
+    number in turns as it may result in an excessively large file being produced. 
